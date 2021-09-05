@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, meu nome é Cláudio Simões Laterza</h1>
 <h3 align="center">Estudante de Ciência da Computação</h3>
 
-<h3 align="left">Me conheça no:</h3>
+<h3 align="left">Me conheça:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cláudio-simões-laterza-37647a190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cláudio-simões-laterza-37647a190/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/claudio.c.laterza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/claudio.c.laterza" height="30" width="40" /></a>
