@@ -1,5 +1,5 @@
 # Arduino
-# Cláudio Simões Laterza
-# Ciência da Computação
+# Nome: Cláudio Simões Laterza
+# Curso: Ciência da Computação
 
 Repositório destinado aos meus projetos de arduíno
